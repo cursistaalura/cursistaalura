@@ -6,7 +6,5 @@
 - I'm teacher
 - I have two graduation Letras PorTugueses/English and Pedagogy, three postgraduate 
 
-<!---
-cursistaalura/cursistaalura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
